@@ -1,4 +1,4 @@
-# TTT_Map_Icon_Collection
+# TTT_Map_Icon_Collection_HD
 ## Steam Addon
 Addon link: https://steamcommunity.com/sharedfiles/filedetails/?id=2846416202
 ## Contains icons for the following maps:<br>
