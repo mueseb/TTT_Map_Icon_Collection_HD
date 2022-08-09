@@ -1,0 +1,14 @@
+{
+	"title": "TTT Map Icon Collection HD",
+	"type": "ServerContent",
+	"tags":	[ "fun", "build" ],
+	"description": "HD Icon Pack",
+	"ignore": [
+        "addon_icon*.jpg",
+        "*.psd",
+        "*.vcproj",
+        "*.svn",
+        "README.md",
+        ".git/*"
+	]
+}
